@@ -4,6 +4,19 @@
 
 *[Вступ повинен містити короткий огляд всього документу.]*
 
+1. [Характеристика ділових процесів](#business-processes)
+   - [Create user account](#CreateUserAccount)
+   - [Change user data](#ChangeUserData)
+   - [Remove user account](#RemoveUserAccount)
+   - [Create survey](#CreateSurvey)
+   - [Close survey](#CloseSurvey)
+   - [Remove survey](#RemoveSurvey)
+   - [Get survey analytics](#GetSurveyAnalytics)
+   - [Show created surveys](#ShowCreatedSurveys)
+   - [Take survey](#TakeSurvey)
+   - [Change answer](#ChangeAnswer)
+   - [Show taken surveys](#ShowTakenSurveys)
+
 
 ## Основні визначення
 
